@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kammu
+ *
+ */
+module mynewone {
+}
